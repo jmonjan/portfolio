@@ -11,6 +11,7 @@ GitHub Pages is enabled on this repo, so all files can be accessed publicly like
 
 - `abstract_gold_ring.glb`  
   👉 https://yourusername.github.io/framer-3d-assets/abstract_gold_ring.glb
+  https://github.com/jmonjan/portfolio/blob/2d1a94e4e978b9fdf1de993503e3672895247089/abstract_gold_ring.glb
 
 - `floating_card.glb`  
   👉 https://yourusername.github.io/framer-3d-assets/floating_card.glb
